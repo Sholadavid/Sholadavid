@@ -1,0 +1,37 @@
+body{
+    background-color: #d7e4fa;
+}
+.code{
+    background-color: white;
+    height: 500px;
+    width: 315px;
+    color: #1e3252;
+    align-items: center;
+    margin-top: 150px;
+    border-radius: 15px;
+    
+}
+.code img{
+    height: 300px;
+    width: 280px;
+    border-radius: 30px;
+    border-image-width: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 15px;
+    padding-bottom: 7px;
+}
+.code h1{
+    font-size: 23px;
+    font-weight: 700;
+    width: 260px;
+    padding-top: 1px;
+}
+.code p{
+    font-size: 18px;
+    width: 270px;
+    height: 30px;
+    font-weight: 400;
+    padding-bottom: 50px;
+    color: #a4a8b3;;
+}
